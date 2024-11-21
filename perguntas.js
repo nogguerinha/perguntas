@@ -1,24 +1,24 @@
 criaCartao(
-    'Fundação',
-    'Em que ano a Ponte Preta foi fundada?',
-    '1900'
+    'Brasileirão',
+    'Quantos títulos brasileiros o Corinthians tem?',
+    '7'
 )
 
 criaCartao(
-    'Títulos',
-    'Quantos títulos a Ponte Preta tem?',
-    '0'
+    'Paulistão',
+    'Quantos títulos paulista o Corinthians tem?',
+    '30'
 )
 
 criaCartao(
     'Artilharia',
-    'Qual o maior artilheiro da Ponte Preta?',
-    'Dicá'
+    'Qual o maior atilheiro do Corinthians?',
+    'Cláudio Christóvam'
 )
 
 criaCartao(
     'Mascote',
-    'Qual o mascote da Ponte Preta?',
-    'Macaca',
+    'Qual o mascote do Corinthians?',
+    'Mosqueteirp',
 
 )
